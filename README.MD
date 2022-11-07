@@ -1,4 +1,4 @@
-## F1 Metric for Tensorflow Object Detection API Models
+## F1 Metric for single class object detection with Tensorflow Object Detection API Models
 ### Usage:
 Add path to Ground truth and Prediction Tensorflow CSV format files:
 
